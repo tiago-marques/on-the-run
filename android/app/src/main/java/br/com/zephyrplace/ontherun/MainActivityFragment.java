@@ -102,7 +102,7 @@ public class MainActivityFragment extends BaseFragment {
                 try {
                     new DownloadAppAsyncTask(
                         view.getContext(), mCallback).execute(
-                        new URL("http://tempsend.com/6E79B9665C/3BA5/appdebug.apk"));
+                        new URL("https://github.com/ZephyrPlace/OnTheRun/raw/master/examples/app/android/OnTheRunExample/app/build/outputs/apk/app-debug.apk"));
                 } catch (MalformedURLException e) {
                     Log.e("ERROR", e.getMessage());
                 }
