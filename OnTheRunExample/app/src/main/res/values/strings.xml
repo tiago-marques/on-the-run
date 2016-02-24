@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">On The Run Example</string>
+    <string name="message">Hi, should be your application !!</string>
+</resources>

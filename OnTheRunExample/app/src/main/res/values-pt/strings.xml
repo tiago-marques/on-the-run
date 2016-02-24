@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">On The Run Example</string>
+    <string name="message">Olá, poderia ser a sua aplicação !!</string>
+</resources>
