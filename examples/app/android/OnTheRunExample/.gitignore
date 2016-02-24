@@ -7,4 +7,4 @@
 /build
 /captures
 # Allow
-!/app/build/outputs/apk
+!/app/build/outputs/apk/*
